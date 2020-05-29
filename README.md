@@ -1,4 +1,5 @@
 # Loop Habit Tracker
+# Vijay will create enhancements here ....
 
 Loop is a mobile app that helps you create and maintain good habits,
 allowing you to achieve your long-term goals. Detailed graphs and statistics
